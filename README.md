@@ -1,5 +1,4 @@
 # User-Generated-Bug-Reports-using-Topic-Modelling
-This repo uses Bertopic to extract bug reports from user reviews, allowing developers to prioritize and improve their software. Includes sentimental analysis and sample datasets for testing.
 
 Welcome to the User Generated Bug Reports using Topic Modelling repository! This project aims to automatically identify topics in user-generated bug reports and reviews for software applications using topic modelling techniques. By extracting key themes and issues from user feedback, developers can prioritize and improve their software based on user needs and preferences.
 
